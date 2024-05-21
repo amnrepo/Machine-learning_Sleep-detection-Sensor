@@ -13,3 +13,6 @@ of CNN classifying the driver as sleep or non-sleep. This system alerts the driv
 with buzzer if sensor detects him/her in sleep mood. The model is caliberated on 
 collected dataset consist of open/close eye images under different lighting 
 conditions and clocked the accuracy of more than 90% during testing phase.
+
+For DATASET, refer to link below:
+https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/
